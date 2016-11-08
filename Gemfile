@@ -28,6 +28,7 @@ gem "font-awesome-rails"
 gem 'simple_form'
 gem 'devise'
 gem 'rb-readline', '~> 0.5.3'
+gem 'auto_html', '~> 1.6'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
